@@ -1,6 +1,6 @@
 -- Vector UI | Example Usage
 
-local Vector = loadstring(game:HttpGet("https://raw.githubusercontent.com/norbertkamana21-sudo/Vector-Ui-library/refs/heads/main/Exaple.Lua"))()
+local Vector = loadstring(game:HttpGet("https://raw.githubusercontent.com/norbertkamana21-sudo/Vector-Ui-library/refs/heads/main/Vector.lua"))()
 
 -- Create Window
 local Window = Vector:CreateWindow({
