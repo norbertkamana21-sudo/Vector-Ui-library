@@ -125,4 +125,4 @@ function Vector:CreateWindow(Config)
     return Window
 end
 
-return setmetatable({}, Vector)
+return Vector
